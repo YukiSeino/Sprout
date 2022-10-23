@@ -28,10 +28,7 @@ body{
 .channnel1{
   color:white;
   list-style:none;
-  display:flex;
-  justify-content:space-around;
-  margin-right:75px;
-}
+  
 .tomo{
   margin-left:-20px;
   
