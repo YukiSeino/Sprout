@@ -1,12 +1,10 @@
-html{overflow-y:scroll;}
-
 body{
   background-color:black;
 }
 .header{
   width:100%;
   height: 100vh; 
- background-image: url(https://github.com/YukiSeino/Sprout/blob/main/arrows.png?raw=true);
+ background-image: url(/img/arrows.png);
  background-size: cover;
  background-position:center;
    }
@@ -28,7 +26,10 @@ body{
 .channnel1{
   color:white;
   list-style:none;
-  
+  display:flex;
+  justify-content:space-around;
+  margin-right:75px;
+}
 .tomo{
   margin-left:-20px;
   
@@ -82,7 +83,6 @@ padding-left:70px;
       flex-flow:column;
       font-size:30px;
       margin-left:950px;
-      margin-right:10px;
     
     }
     .channnel2{
@@ -93,7 +93,6 @@ padding-left:70px;
       margin-right:75px;
     }
     .anioto{
-      padding-top:50px;
       margin-left:-10px;
     }
     .issei{
