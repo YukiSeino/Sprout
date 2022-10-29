@@ -31,17 +31,6 @@ body{
   justify-content:space-around;
   margin-right:75px;
 }
-.tomo{
-  margin-left:-20px;
-  
-}
-.kai{
-  margin-left:-40px;
-}
-.mikuru{
-  margin-left:-10px;
-  margin-right:-30px;
-}
 .pictures1{
   display:flex;
   justify-content: center;
