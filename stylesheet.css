@@ -49,10 +49,10 @@ body{
   white-space: nowrap;
 }
 .pictures2{
-display:flex;
-flex-flow:column;
-padding-left:40px;
-  white-space: nowrap;
+padding-left:50px;
+  display:flex;
+  frex-wrap:wrap;
+  justify-content:space-around;
 }
 .link1{
   margin-top:-147px;
