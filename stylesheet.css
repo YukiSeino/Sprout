@@ -27,9 +27,9 @@ body{
   color:white;
   list-style:none;
   display:flex;
+  flex-wra:wrap;
   justify-content:space-around;
   margin-right:75px;
-  white-space: nowrap;
 }
 .tomo{
   margin-left:-20px;
