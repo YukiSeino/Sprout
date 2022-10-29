@@ -51,7 +51,7 @@ body{
 .pictures2{
 display:flex;
 flex-flow:column;
-padding-left:70px;
+margin-left:70px;
   white-space: nowrap;
 }
 .link1{
