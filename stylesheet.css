@@ -27,7 +27,6 @@ body{
   color:white;
   list-style:none;
   display:flex;
-  flex-wra:wrap;
   justify-content:space-around;
   margin-right:75px;
 }
@@ -46,13 +45,11 @@ body{
   display:flex;
   justify-content: center;
   justify-content: space-evenly;
-  white-space: nowrap;
 }
 .pictures2{
-padding-left:50px;
-  display:flex;
-  frex-wrap:wrap;
-  justify-content:space-around;
+display:flex;
+flex-flow:column;
+padding-left:70px;
 }
 .link1{
   margin-top:-147px;
@@ -60,14 +57,12 @@ padding-left:50px;
   flex-flow:column;
   font-size:31px;
   margin-left:90px;
-  white-space: nowrap;
 }
 .pictures3{
   display:flex;
   flex-flow:column;
   margin-top:-147px;
   margin-left:492px;
-  white-space: nowrap;
   }
   .link2{
     margin-top:-166px;
@@ -75,14 +70,12 @@ padding-left:50px;
     flex-flow:column;
     font-size:30px;
     margin-left:510px;
-    white-space: nowrap;
   }
   .pictures4{
     display:flex;
     flex-flow:column;
     margin-top:-147px;
     margin-left:935px;
-    white-space: nowrap;
     }
     .link3{
       margin-top:-166px;
@@ -90,7 +83,6 @@ padding-left:50px;
       flex-flow:column;
       font-size:30px;
       margin-left:950px;
-      white-space: nowrap;
     
     }
     .channnel2{
@@ -437,3 +429,17 @@ padding-left:50px;
                                         justify-content: center;
                                         justify-content: space-evenly;}
                                  
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
